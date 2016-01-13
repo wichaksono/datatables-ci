@@ -9,4 +9,6 @@ Sebelum menggunakan Datatable ini sebaiknya check apakah file berikut sudah sesu
 </ol>
 
 Dan jangan lupa untuk meng-import karyawan.sql kedalam database yang sudah dibuat.<br>
-kunjungi : <a href="https://www.onphpid.com" title="tutorial php">www.onphpid.com</a> situs tutorial PHP dan cara membuat website.
+kunjungi : <a href="//www.onphpid.com" title="tutorial php">www.onphpid.com</a> situs tutorial PHP dan cara membuat website.
+<br/>
+Tutorial datatables-ci : <a href="//www.onphpid.com/cara-mengunakan-datatables-pada-codeigniter-3.html">Tutorial Datatables CI</a>
