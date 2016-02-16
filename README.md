@@ -1,5 +1,11 @@
 # datatables-ci
 
+<h3>Update Script</h3>
+<ul>
+<li>Pengubahan Pada Model dan Controller untuk keperluan Query Join dan Custom Table pada View</li>
+<li>pengubahan pada karyawan.sql yang kini memuat 2 table untuk keperluan join</li>
+</ul>
+
 Sebelum menggunakan Datatable ini sebaiknya check apakah file berikut sudah sesuai dengan sistem yang dikehendaki
 <ol>
 <li>config.php</li>
